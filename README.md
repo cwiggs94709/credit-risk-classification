@@ -4,7 +4,7 @@
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* Explain the purpose of the analysis.
+* Purpose of the analysis.
 * Explain what financial information the data was on, and what you needed to predict.
 
 The goal of this analysis was to develop and assess a model focused on predicting loan risk. Using a dataset derived from past lending transactions of a peer-to-peer lending platform, the objective is to construct a robust model capable of discerning the creditworthiness of potential borrowers.
